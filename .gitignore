@@ -1,0 +1,5 @@
+.env
+/config.local.php
+/storage/setup.lock
+/storage/documents/*
+/storage/logs/*
